@@ -4,7 +4,7 @@ Project Overview for Inventory Management Site
 For the final project, the tech stack will include:
 * Frontend: React.js
 * Backend: Node.js with Express
-* Database: MySQL
+* Database: PostgreSQL
 * API Integration: Using free APIs for barcode scanning (e.g., Barcode Lookup API) and notifications (e.g., Twilio API)
 * Deployment: Heroku for hosting
 
