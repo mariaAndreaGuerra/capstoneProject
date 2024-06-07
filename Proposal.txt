@@ -2,9 +2,9 @@ Project Overview for Inventory Management Site
 
 1. Tech Stack
 For the final project, the tech stack will include:
-* Frontend: React.js
-* Backend: Node.js with Express
-* Database: PostgreSQL
+* Frontend: React.js, HTML, CSS & JavaScript
+* Backend: Python, Flask, Flask-Alchemy
+* Database: SQLite
 * API Integration: Using free APIs for barcode scanning (e.g., Barcode Lookup API) and notifications (e.g., Twilio API)
 * Deployment: Heroku for hosting
 
@@ -12,7 +12,7 @@ For the final project, the tech stack will include:
 The project will be an evenly focused full-stack application. Both the frontend and backend will receive significant attention to ensure a seamless user experience and robust backend functionality.
 
 3. Type of Application
-This project will be a website designed to be responsive, ensuring it works well on both desktop and mobile browsers.
+This project will be a website designed to be responsive, ensuring it works well on both desktop browsers.
 
 4. Goal of the Project
 The primary goal of the Inventory Management Site is to:
